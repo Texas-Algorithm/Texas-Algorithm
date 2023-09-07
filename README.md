@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+🔥 **GitHub Stats**
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+---
+
+💻 **Recent Activity**
+
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com/your_username/your_repo/issues/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
+2. 🎉 Merged PR [#1](https://github.com/your_username/your_repo/pull/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
+3. 💪 Opened PR [#1](https://github.com/your_username/your_repo/pull/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
+4. 🌟 Starred [some_other_user/some_repo](https://github.com/some_other_user/some_repo)
+
 ---
 
 🛠 **Tech Stack**
