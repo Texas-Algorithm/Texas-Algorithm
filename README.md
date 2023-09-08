@@ -6,23 +6,23 @@
  
 <div align="left">
  
- ---
+ --------
      
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
 
 
----
+---------
 
 💻 **Recent Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/your_username/your_repo/issues/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
-2. 🎉 Merged PR [#1](https://github.com/your_username/your_repo/pull/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
-3. 💪 Opened PR [#1](https://github.com/your_username/your_repo/pull/1) in [your_username/your_repo](https://github.com/your_username/your_repo)
+1. ❗️ Opened issue [#1](https://github.com/your_username/your_repo/issues/1)
+2. 🎉 Merged PR [#1](https://github.com/your_username/your_repo/pull/1)
+3. 💪 Opened PR [#1](https://github.com/your_username/your_repo/pull/1)
 4. 🌟 Starred [some_other_user/some_repo](https://github.com/some_other_user/some_repo)
 
----
+---------
 
 🛠 **Tech Stack**
 
