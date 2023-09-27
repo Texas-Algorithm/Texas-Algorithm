@@ -9,10 +9,10 @@
 
 🌟 **Latest Contributions**
 
-- AIIA
-- AIIA
-- AIIA
-- AIIA
+- 📝 Opened an issue : AIIA
+- 🚀 Merged : AIIA
+- 🌱 Created a new pull request : AIIA
+- ⭐️ Starred : AIIA
 
 ---------
 
