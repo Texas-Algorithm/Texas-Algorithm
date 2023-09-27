@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=3000&color=6FA8DC&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JeongMin's+GitHub!👋🐬)](https://git.io/typing-svg)
 
 
-<div align="center">
+<div align="left">
 
 ---------
 
