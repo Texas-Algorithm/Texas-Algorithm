@@ -6,13 +6,13 @@
 
 ---------
 
-💻 **Recent Activity**
+🌟 **Latest Contributions**
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/your_username/your_repo/issues/1)
-2. 🎉 Merged PR [#1](https://github.com/your_username/your_repo/pull/1)
-3. 💪 Opened PR [#1](https://github.com/your_username/your_repo/pull/1)
-4. 🌟 Starred [some_other_user/some_repo](https://github.com/some_other_user/some_repo)
+- AIIA
+- AIIA
+- AIIA
+- AIIA
+
 
 ---------
 
