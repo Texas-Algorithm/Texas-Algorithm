@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
-<div style="background-image: url('https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100'); display: flex; justify-content: center; align-items: center; height: 100px;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=3000&color=6FA8DC&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JeongMin's+GitHub!👋🐬" alt="Typing SVG">
-    </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=3000&color=6FA8DC&center=false&vCenter=true&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+JeongMin's+GitHub!👋🐬)](https://git.io/typing-svg)
 
 
- 
 <div align="left">
 
 ---------
